@@ -1,2 +1,36 @@
-# Derivable-Judgement-A-Statistical-Decision-Making-Model
-End-to-end health data analysis project demonstrating hypothesis testing, confidence intervals, ANOVA, Chi-Square, correlation, and data interpretation using Python.
+# Health Statistics Analysis Project
+
+## Overview
+This project demonstrates inferential statistics using Python.
+
+## Dataset Features
+- Age
+- Weight
+- BMI
+- Blood Pressure
+- Cholesterol Level
+- Glucose Level
+- Gender
+- Smoking Status
+- Exercise Frequency
+- Diabetes
+- Hypertension
+
+## Statistical Techniques Used
+- Confidence Interval
+- Hypothesis Testing
+- One Sample T-Test
+- Independent T-Test
+- Chi-Square Test
+- One-Way ANOVA
+- Covariance
+- Correlation
+
+## Libraries
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+
+## Author
+Makwana Mayur
